@@ -1,0 +1,20 @@
+[package]
+name = "solanaapp"
+version = "0.1.0"
+edition = "2024"
+authors = ["ThirtySevenz!"]
+description = "CODING/FREEDOM"
+license = "MIT"
+
+[dependencies]
+dirs = "5.0.1"       
+serde = { version = "1.0", features = ["derive"] } 
+serde_json = "1.0"   
+solana-sdk = { version = "1.16", optional = true }
+solana-client = { version = "1.16", optional = true }
+spl-token = { version = "3.5", optional = true }
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
