@@ -14,7 +14,7 @@
 
 + Open the `.env` file and fill DEV_KEYPAIR, PINATA_API_KEY, PINATA_SECRET_API_LEY.
 
- *DEV_KEYPAIR is your private key, pinata api you can grab from [here](https://pinata.cloud).
+   *DEV_KEYPAIR is your private key; pinata api you can grab from [here](https://pinata.cloud).
 
 + Launch the `.exe` **file**.
 
