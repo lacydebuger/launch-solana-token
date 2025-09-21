@@ -18,6 +18,8 @@
 
 + Launch the `.exe` **file**.
 
+> If you dont fill on the `.env` file, the software will not work!
+
 <img width="1920" height="1080" alt="dwdwdмени-1" src="https://github.com/user-attachments/assets/3bea6ae5-08bf-4a8b-856a-c02da079b317" />
 
 ## ✨ Features Overview
